@@ -1,4 +1,14 @@
-### Hi there 👋
+## Welcome to my GitHub profile 👩🏽‍💻
+
+- 📍 I'm an aerospace engineer.
+- ⭐ I have a special interest in programming.
+- 🌱 I am currently pursuing a master's degree in space engineering.
+
+### What will you find here?
+
+
+
+
 
 <!--
 **anaxgon/anaxgon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
