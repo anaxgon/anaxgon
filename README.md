@@ -4,7 +4,6 @@
 - ⭐ I have a special interest in programming.
 - 🌱 I am currently pursuing a master's degree in space engineering.
 
-### What will you find here?
 
 
 
